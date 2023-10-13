@@ -15,4 +15,7 @@
     <li>Funding oppurtunity for each projects</li>
     <li>Project and team management</li>
     <li>Earning for each task done. Each learning, review, comment, project etc</li>
+    <li>Award for each category. Anyone can create an award and ask for funding. Automate the system for winner</li>
+    <li>Public voting</li>
+    <li>Accounts for AI</li>
 </ul>
