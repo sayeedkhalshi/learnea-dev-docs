@@ -149,3 +149,5 @@ How a learning system works:-
 <li>Documents all the learning</li>
 <li>Messaing all the learning and problems to message board</li>
 </ul>
+
+<h2>Donate ETH - 0x713b8F6E2e42C0481E8B2A4095A4f878BF932716</h2>
