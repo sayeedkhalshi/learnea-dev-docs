@@ -1,7 +1,8 @@
 <h1>everylearning.org</h1>
 <p>This learning system is being developed from by ongoing research on Learning Science. 
-<a href="https://docs.google.com/document/d/1jSYrEjyUqjkCsw9fu9rexfVDNfSIca1N55Curyc1fjg/edit?usp=sharing">This book is being written</a>
+<a href="https://docs.google.com/document/d/1jSYrEjyUqjkCsw9fu9rexfVDNfSIca1N55Curyc1fjg/edit?usp=sharing">This book is being written</a> and
 <a href="https://docs.google.com/document/d/16ylhp4EXtw18L7ITfOnWw8TwlhgCrEe-Q68AbiWsFdE/edit?usp=sharing">Unedited notes and thoughts are here</a>
+<em>A video explaining learning and economics is coming soon<em>
 <h3>Philosophy</h3>
 <ul>
     <li>Document each learning - each hypothesis from each perspective. Where hypothesises don't have to be proved. Every expression is already because someone had felt it. Maybe from a distorted sense but still they faced it. We need to know what certain perspective has to say for a certain situation. </li>
@@ -87,58 +88,64 @@
 </ul>
 
 <h2>Feud -</h2> 
-Feud over opinion- a video about that opinion describing with terms
-The topics is selected by the system - one by one. Maybe 7 in a week. The most hot topic selected by algorithms. Video is made by any user
-Feud - describing topics is like engineering whereas intelligence is like theory. Theory doesn’t take you much far but engineering takes it to the infinite creativity
-Feud will move forward until it’s complete or solved based on logic from booth side
-There will be an AI , Feud AI. Made by anyone. Any AI that detects Feud better will be judging the feud.
-Will be judged by people
-A moderator will take  terms from each video and comments and make a video explaining what opinions is better from whose video
-Every feud will have every question that can be asked and should be answered correctly by the moderator and other people. Moderator must update the answer based on other peoples answer if they write better. Questions will only be under feud. 
-Terms AI. This AI will know and understand any terms and will know if any writer violates any term or follows any term
- ReDo - Redo and revalidate previous learning by day, week, month, 6 month year and after a learning break revisit and redo all previous learning to look at from different perspective. This feature will give the system a better way ti credit and score people
- Voting for every decision
+<ul>
+<li>Feud over opinion - a video about that opinion describing with terms</li>
+<li>The topics is selected by the system - one by one. Maybe 7 in a week. The most hot topic selected by algorithms. Video is made by any user. </li>
+<li>Feud - describing topics is like engineering whereas intelligence is like theory. Theory doesn’t take you much far but engineering takes it to the infinite creativity</li>
+<li>Feud will move forward until it’s complete or solved based on logic from booth side</li>
+<li>There will be an AI , Feud AI. Made by anyone. Any AI that detects Feud better will be judging the feud.<.li>
+<li>Will be judged by people</li>
+<li>A moderator will take  terms from each video and comments and make a video explaining what opinions is better from whose video</li>
+<li>Every feud will have every question that can be asked and should be answered correctly by the moderator and other people. Moderator must update the answer based on other peoples answer if they write better. Questions will only be under feud. </li>
+<li>Terms AI. This AI will know and understand any terms and will know if any writer violates any term or follows any term
+<li>ReDo - Redo and revalidate previous learning by day, week, month, 6 month year and after a learning break revisit and redo all previous learning to look at from different perspective. This feature will give the system a better way to credit and score for people</li>
+<li>Voting for every decision</li>
+</ul>
 
 <h2>Unique Tech Feature:-</h2>
-No tagging feature
-A simple way to tag a group of users or projects or entities where the tag will directly show only the name of the logged in entity
-Numbering checkmark
+<ul>
+<li>No tagging feature</li>
+<li>A simple way to tag a group of users or projects or entities where the tag will directly show only the name of the logged in entity</li>
+<li>Numbering checkmark</li>
+</ul>
 
 How a learning system works:-
 
 <h2>Leadership:</h2>
-A Learning Leader has 3 quality
-Have a vision to accomplish something
-Have a project to finish
-Understand the process of finishing the project
-Manages some learners to build a team for that project
-Understands learning terms
-Can Udentifies learning (to prove he/she must be able to identify problems while writing reviews for Learning Activity of others)
-Uses the Learning System to finish the project
-Terming Topics - Knows the terms for that project. Example - Beside knowing Learning Terms, a web dev project Leader must know -
-Computer Science Learning Terms
-Software Engineering Learning Terms
-And other terms for related any technology used
+<li>A Learning Leader has 3 quality</li>
+<li>Have a vision to accomplish something</li>
+<li>Have a project to finish</li>
+<li>Understand the process of finishing the project</li>
+<li>Manages some learners to build a team for that project</li>
+<li>Understands learning terms</li>
+<li>Can Udentifies learning (to prove he/she must be able to identify problems while writing reviews for Learning Activity of others)</li>
+<li>Uses the Learning System to finish the project</li>
+<li>Terming Topics - Knows the terms for that project. Example - Beside knowing Learning Terms, a web dev project Leader must know - Computer Science Learning Terms, Software Engineering Learning Terms and other terms for related any technology used</li>
+</ul>
 
 <h2>Learners:-</h2>
-Joins a Learning Project under a Learning Leader
-Takes Learning Activity from Learning Leader
-Can create Learning Activity on their own
-Finishes the project while learning
-Learners get paid for learning
-Can learn standalone.
-Can get funding
-Can get pay for learning if the topics has fund
-Can get payment if the main vault has profit
+<ul>
+<li>Joins a Learning Project under a Learning Leader</li>
+<li>Takes Learning Activity from Learning Leader</li>
+<li>Can create Learning Activity on their own</li>
+<li>Finishes the project while learning</li>
+<li>Learners get paid for learning</li>
+<li>Can learn standalone.</li>
+<li>Can get funding</li>
+<li>Can get pay for learning if the topics has fund</li>
+<li>Can get payment if the main vault has profit</li>
+</ul>
 
 <h2>Learning Project</h2>
-Have a name
-Have a vision
-Have a leader
-Have a team
-Have some founders
-Have a process till finish
-Have a progress meter
-List all learning resources
-Documents all the learning
-Messaing all the learning and problems to message board
+<ul>
+<li>Have a name</li>
+<li>Have a vision</li>
+<li>Have a leader</li>
+<li>Have a team</li>
+<li>Have some founders</li>
+<li>Have a process till finish</li>
+<li>Have a progress meter</li>
+<li>List all learning resources</li>
+<li>Documents all the learning</li>
+<li>Messaing all the learning and problems to message board</li>
+</ul>
