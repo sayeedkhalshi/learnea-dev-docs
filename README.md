@@ -150,4 +150,9 @@ How a learning system works:-
 <li>Messaing all the learning and problems to message board</li>
 </ul>
 
-<h2>Donate ETH - 0x713b8F6E2e42C0481E8B2A4095A4f878BF932716</h2>
+<h2>Contribute</h2>
+<p>
+    This project is going through the architecture phase. Send me a email or message to contribute
+</p>
+
+<h2>If you like, please support the research. Donate ETH - 0x713b8F6E2e42C0481E8B2A4095A4f878BF932716</h2>
