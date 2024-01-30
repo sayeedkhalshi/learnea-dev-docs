@@ -1,8 +1,6 @@
 <h1>everylearning.org</h1>
-<p>This learning system is being developed from by ongoing research on Learning Science. 
-<a href="https://docs.google.com/document/d/1jSYrEjyUqjkCsw9fu9rexfVDNfSIca1N55Curyc1fjg/edit?usp=sharing">This book is being written</a> and
-<a href="https://docs.google.com/document/d/16ylhp4EXtw18L7ITfOnWw8TwlhgCrEe-Q68AbiWsFdE/edit?usp=sharing">Unedited notes and thoughts are here</a>
-<p><em><small>A video explaining learning and economical terms coming in 2 days</small></em></p>
+<p>This learning system is being developed from my ongoing research on Learning Science. 
+This book is being written and
 <h3>Philosophy</h3>
 <ul>
     <li>Document each learning - each hypothesis from each perspective. Where hypothesises don't have to be proved. Every expression is already because someone had felt it. Maybe from a distorted sense but still they faced it. We need to know what certain perspective has to say for a certain situation. </li>
