@@ -1,6 +1,6 @@
 <h1>everylearning.org</h1>
-<p>This learning system is being developed from my ongoing research on Learning Science. 
-This book is being written and
+<>This learning system is being developed from my ongoing research on Learning Science. Purpose is to document each terms, each perspective, each hypothesis, each learning curve, each understanding and each learning process. 
+A book is being written. </p>
 <h3>Philosophy</h3>
 <ul>
     <li>Document each learning - each hypothesis from each perspective. Where hypothesises don't have to be proved. Every expression is already because someone had felt it. Maybe from a distorted sense but still they faced it. We need to know what certain perspective has to say for a certain situation. </li>
