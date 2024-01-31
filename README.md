@@ -1,5 +1,5 @@
 <h1>everylearning.org</h1>
-<>This learning system is being developed from my ongoing research on Learning Science. Purpose is to document each terms, each perspective, each hypothesis, each learning curve, each understanding and each learning process. 
+<p>This learning system is being developed from my ongoing research on Learning Science. Purpose is to document each terms, each perspective, each hypothesis, each learning curve, each understanding and each learning process. 
 A book is being written. </p>
 <h3>Philosophy</h3>
 <ul>
