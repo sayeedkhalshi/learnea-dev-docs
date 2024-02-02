@@ -110,10 +110,19 @@ A book is being written. </p>
 
 <h2>Unique Tech Feature:-</h2>
 <ul>
+<li>Optional - In-Website-Terminal based use of website</li>
+<li>Focused design</li>
+<li>Natural Design</li>
 <li>No tagging feature</li>
 <li>A simple way to tag a group of users or projects or entities where the tag will directly show only the name of the logged in entity</li>
 <li>Numbering checkmark</li>
 </ul>
+
+<h2>Future With Hardware or Real Life Tools-</h2>
+<p>To save people from burning, To preserve the skill we developed through thousand of years, To reduce the learning gap between real life and learning, we can make a learning system that can simulate real life. This can be done by making a computer simulation where a learner can simulate real world. This can be done by making a screenless computer where real objects works as computer tools. This can be done</p>
+<li>Making of a computer simulation where a learner can simulate real world</li>
+<li>Making of a screenless computer where real objects works as computer tools</li>
+<li>Learning World like Disney World where learner can simulate reality in real to practice for real to reduce Reality Gaps</li>
 
 How a learning system works:-
 
