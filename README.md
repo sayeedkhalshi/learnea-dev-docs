@@ -64,6 +64,8 @@ A book is being written. </p>
 <li>ToDo based learning</li>
 <li>Project based learning</li>
 <li>AI based management. Real life monitoring for learning isn’t important, communicating about learning is important.</li>
+<li>Learning roadmap - can be created from any topics to any topics</li>
+<li>A Learning Path must follow a roadmap</li>
     </ul></li>
 <li>Everything is learning</li>
 <li>Every learning is a problem or Everything is a problem</li>
@@ -118,11 +120,13 @@ A book is being written. </p>
 <li>Numbering checkmark</li>
 </ul>
 
-<h2>Future With Hardware or Real Life Tools-</h2>
+<h2>Future With Hardware or Real Life Tools! Many of them are too futuristic-</h2>
 <p>To save people from burning, To preserve the skill we developed through thousand of years, To reduce the learning gap between real life and learning, we can make a learning system that can simulate real life. This can be done by making a computer simulation where a learner can simulate real world. This can be done by making a screenless computer where real objects works as computer tools. This can be done</p>
 <li>Making of a computer simulation where a learner can simulate real world</li>
 <li>Making of a screenless computer where real objects works as computer tools</li>
 <li>Learning World like Disney World where learner can simulate reality in real to practice for real to reduce Reality Gaps</li>
+<li>A learning device with in build printer</li>
+<li>AI image to text for copying written todo, notes and activities. This can be done by using a camera to scan the paper and convert it to text.</li>
 
 How a learning system works:-
 
