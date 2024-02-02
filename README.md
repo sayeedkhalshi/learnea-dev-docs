@@ -1,4 +1,4 @@
-<h1>everylearning.org</h1>
+<h1>everylearning.org - Learning Terms Network where each terms meet each other</h1>
 <p>This learning system is being developed from my ongoing research on Learning Science. Purpose is to document each terms, each perspective, each hypothesis, each learning curve, each understanding and each learning process. 
 A book is being written. </p>
 <h3>Philosophy</h3>
@@ -43,6 +43,7 @@ A book is being written. </p>
 <li>Reward and credit system</li>
 <li>Voting for each terms to be considered as mainstream.</li>
 <li>Go mainstream means that term is common for most people.</li>
+<li>Writing and typing both ability on the website (PTSD paradox of writing and typing)</li>
 <li>Perspective doesn’t have to be proved and doesn’t need go mainstream. Each perspective is true as at least one person felt it.</li>
 <li>Project Based Learning. Each learning has a purpose to build a project</li>
 <li>Project gets funded</li>
@@ -127,6 +128,7 @@ A book is being written. </p>
 <li>Learning World like Disney World where learner can simulate reality in real to practice for real to reduce Reality Gaps</li>
 <li>A learning device with in build printer</li>
 <li>AI image to text for copying written todo, notes and activities. This can be done by using a camera to scan the paper and convert it to text.</li>
+<li>A paper connected to the website where learner can write notes and activities instead of typing. So we can avoid double typing and mismanaging documents</li>
 
 How a learning system works:-
 
