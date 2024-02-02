@@ -95,9 +95,17 @@ A book is being written. </p>
 <li>Will be judged by people</li>
 <li>A moderator will take  terms from each video and comments and make a video explaining what opinions is better from whose video</li>
 <li>Every feud will have every question that can be asked and should be answered correctly by the moderator and other people. Moderator must update the answer based on other peoples answer if they write better. Questions will only be under feud. </li>
-<li>Terms AI. This AI will know and understand any terms and will know if any writer violates any term or follows any term
+<li>Terms AI. This AI will know and understand any terms and will know if any writer violates any term or follows any term</li>
 <li>ReDo - Redo and revalidate previous learning by day, week, month, 6 month year and after a learning break revisit and redo all previous learning to look at from different perspective. This feature will give the system a better way to credit and score for people</li>
 <li>Voting for every decision</li>
+<li>Learning Path or Roadmap - A roadmap to learn from a list</li>
+<li>Activities are a roadmap to learn from a list of ToDo’s. Each ToDo is a activity (ex - in link attached)</li>
+<li>Steps for Pre ToDo – decision making of what to learn → Research to make decision → Options To choose from. So there is a plan file with all the plans and things you want to do in life</li>
+<li>Steps for ToDo Example - Routine - software architecture → ToDo: what is architecture → Working ToDo: wikipedia page on software architecture, 38 actions and insights to become a software architecture etc → ReDo List: Everything to redo again.</li>
+<li>Micro ToDo - things that has to learn to understand the Working ToDo. Also sequence of ToDo.</li>
+<li>Lowest Point of Activities(link attached) or Work Note - where you exercise all your learning</li>
+<li>ToDo table, desk or ToDo rake</li>
+
 </ul>
 
 <h2>Unique Tech Feature:-</h2>
