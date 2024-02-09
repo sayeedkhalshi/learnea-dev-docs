@@ -1,6 +1,7 @@
 <h1>everylearning.org - Learning Terms Network where each terms meet each other</h1>
 <p>This learning system is being developed from my ongoing research on Learning Science. Purpose is to document each terms, each perspective, each hypothesis, each learning curve, each understanding and each learning process. 
 A book is being written. </p>
+
 <h3>Philosophy</h3>
 <ul>
     <li>Document each learning - each hypothesis from each perspective. Where hypothesises don't have to be proved. Every expression is already because someone had felt it. Maybe from a distorted sense but still they faced it. We need to know what certain perspective has to say for a certain situation. </li>
@@ -20,6 +21,8 @@ A book is being written. </p>
     <li>Award for each category. Anyone can create an award and ask for funding. Automate the system for winner</li>
     <li>Public voting</li>
     <li>Accounts for AI</li>
+    <li>Share Art Forms</li>
+    <li>Rewards for deserving arts, terms, with so much money that mainstream art forms become irrelavant</li>
 </ul>
 
 <h3>More info</h3>
@@ -97,6 +100,7 @@ A book is being written. </p>
 <li>There will be an AI , Feud AI. Made by anyone. Any AI that detects Feud better will be judging the feud.<.li>
 <li>Will be judged by people</li>
 <li>A moderator will take  terms from each video and comments and make a video explaining what opinions is better from whose video</li>
+<p>stories or artforms are developed from the terms and feuds.</p>
 <li>Every feud will have every question that can be asked and should be answered correctly by the moderator and other people. Moderator must update the answer based on other peoples answer if they write better. Questions will only be under feud. </li>
 <li>Terms AI. This AI will know and understand any terms and will know if any writer violates any term or follows any term</li>
 <li>ReDo - Redo and revalidate previous learning by day, week, month, 6 month year and after a learning break revisit and redo all previous learning to look at from different perspective. This feature will give the system a better way to credit and score for people</li>
@@ -170,6 +174,10 @@ How a learning system works:-
 <li>Documents all the learning</li>
 <li>Messaing all the learning and problems to message board</li>
 </ul>
+
+<p>
+Fued rule -Opinion is atomic and building block of fued 1. You u listen to the arguments, 2. You understand what other say, 3. others has to agree that you understood their opinion, 4, you get time to think and prepare, 5. You share your opinion with acknowledgement and unacknowledgement 6, other has to agree that they understood, they share a list of acknowledge ment and unacknowledgement 7. Mark acknowledgement as resolved, 8 feud continues 
+</p>
 
 <h2>Contribute</h2>
 <p>
