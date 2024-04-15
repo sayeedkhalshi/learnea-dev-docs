@@ -31,6 +31,7 @@
         <ul>
             <li>Details
             <ul>
+                <li>The srory behind</li>
                 <li>Learning Curves</li>
              </ul>
              </li>
@@ -40,13 +41,16 @@
         </ul>
     </li>
     <li>intersections of terms</li>
-    <li>repeat, repeat, repeat in weeks, months, years - repeats are rewarded most. Repeating means doubling your input</li>
+    <li>Frequency - repeat, repeat, repeat in weeks, months, years - repeats are rewarded most. Repeating means doubling your input</li>
     <li>Public voting</li>
     <li>Given an AI companion as they can learn and teach for each person differently. A grand AI knows all will be personalized for each person</li>
     <li>Mainstrem terms are voted ranking in realtime. Only spcieal learing terms are there. They are usually the topics from my book</li>
     <li>Promotions</li>
+    <li>Flows - how many flows you are running. What is the current flow, what flow this thread belowngs to</li>
+    <li>Thread - how many thread of learnig is going on. What is the main one, what are the sub threads. Each unfinished activity is a explicit thread.</li>
+    <li>Frequency Meter to show frequency and user coming to a topics. Based on coming back in terms if days and how much time each day, we measure frequency and wave for topics, activity, or each thing that where the user spends most time in</li>
 </ul>
-
+ <h4>Explaining Base features</h4>
 <ul>
     <li>
         Terms - creating terms. Terms are learning or learning curves, learned philosophy
