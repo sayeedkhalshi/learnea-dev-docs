@@ -1,9 +1,31 @@
-<h2>everylearning.org - Learning Terms Network where each terms meet each other. You learn by doing activity list at how your admiration is learning.</h2>
+<h6>Intro</h6>
+<p>
+End of the day, you sit on a corner and think about your days. Sometimes you think about lifes and everything. You think what you did was right and what did you do wrong. How you are evolving in the world, relationships and personality etc. All those thinking you had to do because there were curves you needed to be aware of. Needed to think of them carefully and figure out how they connect. So your next step in life is better. All those things are your learnings and you keep forgetting them after a certain age. Because there are too much things to learn and things to connect. You can't keep up with all of them now. So you need to write them up.
+<br />
+Then you figure out, writigng helps to understand them better. Then you learned other activities about them help you understand those problem and learning better. So you want more engagement on your learnings. Slowly you see, you are getting wiser. Those learnings are usually personal philosophy we call. But there is something crazy about this. It's simlar for all of us. Cause our brain works similar way. But you can see you can't think of a lot. Then to simplify your learning, I have found a way. To name them. To name them as terms like scientific and philosophical terms.
+<br />
+Then you can analyze those terms. Connect those terms to other terms. Explain those terms from different perspective, people, fields and research. Other can learn from your terms, you can learn from their.
+<br />
+I want to have a place where there is no boundary or shame. No dumb questions or situations.
+<br />
+But there is some obvious truth about learning that we don't acknowledge. Like, we are learning machine. Also we aren't here to learn but to breed, work, provide.
+<br />
+So, I want to make learning, working, managing, payments all integrated in this platform. So I tried to understand philosophy, economics as much as I could for this learning terms and learning system.
+<br />
+But there is more, I want people to learn those terms like the universe learns. As smooth as the universe. For initial phase, you need to read the Learning Terms doc.
+</p>
+<br />
+<hr />
+<br />
+<p>Below is a overview of the learning system</p>
+
+<h6>everylearning.org - Learning Terms Network where each terms meet each other. You learn by doing activity list at how your admiration is learning.</h6>
+
 <p>Development concept:- Think of each terms(name of topics) we have are like a node of network. Each terms in this world can be described from another terms. Or we can connect it to another term. So one term can be connected to many if not all the terms. But also the road from one term to another is also a adventure. Each term can have many version since they have different definition from different perspective. Point is anyone can start learning from anywhere and pick a destination. And they use the roadmap to go from the starting point to the destination. Each roadmap will have multiple terms to stop by and learn. There can be a lot of roadmap going to any direction the learner wants and change direction. For each direction the terms will have different different definition. Here definition is like a house with all the material it needs. A term will have definition, examples, story, practice, micro activites management, feud, art pieces and all it can have possibles. Each node around a node has a calculated percentage as how important they are for the destination </p>
 <p>This learning system is being developed from my ongoing research on Learning Science. Purpose is to document each terms, each perspective, each hypothesis, each learning curve, each understanding and each learning process. 
 A book is being written. </p>
 
-<h3>Philosophy</h3>
+<h3>Goals</h3>
 <ul>
     <li>Document each learning - each hypothesis from each perspective. Where hypothesises don't have to be proved. Every expression is already because someone had felt it. Maybe from a distorted sense but still they faced it. We need to know what certain perspective has to say for a certain situation. </li>
     <li>Name each learning - each hypothesis. Naming or terming a perspective makes us name the feelings and we can communicate our feelings using those names</li>
