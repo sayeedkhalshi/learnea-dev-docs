@@ -34,6 +34,7 @@ A book is being written. </p>
     <li>Describe each terms from every other terms</li>
     <li>Every gets to share everything</li>
     <li>P2P debate and moderation to resolve conflicting expression, manipulation, lies and propagandas.</li>
+    <li>No genereic syllabus since human tends to learn from a syllabus out of curiosity but missing the technical reason of where their perspective stands</li> 
     <li>Documentation of learning each topics by a learner</li>
     <li>Reviewing each others learning, reviewing reviews too</li>
     <li>Categorize learners by their learning and working ability</li>

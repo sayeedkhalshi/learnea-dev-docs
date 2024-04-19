@@ -1,6 +1,7 @@
-<h2>This is how the profuct can be developed to the technical perspective</h2>
+<h2>This is how the profuct can be developed to the technical perspective. Concept of layers, nodes, motion, momentum, changes, wave, frequency and other universe's virtual and quantum properties will be enforced by imlementing those features below. So learning becomes natural. But they also follow other learning related terms. The economics portion isn't ready yet. </h2>
  <h4>Base features</h4>
  <ul>
+    <li></li>
     <li>Users - wallet</li>
     <li>Wave function</li>
     <li>Projects</li>
@@ -18,7 +19,7 @@
     <li>Award - award to honor and support art form in each category by community donation each month, year</li>
     <li>Engage/chat room in each terms(also perspective based)</li>
     <li>Paths
-        <ul>
+        <ul> 
             <li>Learning Curves (by community)</li>
         </ul>
     </li>
@@ -26,8 +27,8 @@
     <li>Perspective (Human, Visual, Topic based)</li>
     <li>Activity - path activity, project activity</li>
     <li>Respect Token</li>
-    <li>Reward system</li>
-    <li>Terms
+    <li>Reward system -  reward should be aligned with the achievement. I have whole reward system planned in philosophy page too.</li>
+    <li>Terms - connection term/tangled term, standalone term, perspective term, derived term (derived from perspective or technical terms)
         <ul>
             <li>Details
             <ul>
@@ -40,6 +41,8 @@
             <li>Reality pots. Genious pot - writing, talking</li>
         </ul>
     </li>
+    <li>Learning Philosophy of term (acts like a term)- what you learned from a term. Philosophies are Gem terms. Some philosphies are called genuine gem. When a genuine gem is made, people will run to explain how to explain it in terms of control structure to simulate reality. Many new things can be created. Their actions will be rewarded more. </li>
+    <>
     <li>intersections of terms</li>
     <li>Frequency - repeat, repeat, repeat in weeks, months, years - repeats are rewarded most. Repeating means doubling your input</li>
     <li>Public voting</li>
