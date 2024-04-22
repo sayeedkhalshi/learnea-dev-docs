@@ -3,7 +3,12 @@
  <ul>
     <li></li>
     <li>Users - wallet</li>
+    <li>Threads - from the single state of action mind hypothesis - only one thread is allowed for learning threads. ('Threads' instead of PTSD and force learning attahced atatched 'goal')</li>
+    <li>The thread will run a main flow</li>
+    <li>Flow has intention or (goal)</li>
+    <li>Intentions are attached to activity. So far this will make people run in a flow. Now we can introduce projects under that activity. So that activity will become a goal. Goal will have project and project will have activity. Breaking flow means a lot away from the goal</li>
     <li>Wave function</li>
+    <li>Learning threads and process based</li>
     <li>Projects</li>
     <li>Funding, funded pool - for projects, topics, learners, goals, layers all</li>
     <li>Tasks</li>>
