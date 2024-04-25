@@ -6,15 +6,15 @@ Abu Sayeed - founder of Learnea and everylearning, learning science researcher, 
 End of the day, you sit on a corner and think about your days. Sometimes you think about life and everything. You think what you did was right and what you did wrong. How you are evolving in the world, relationships and personality etc. All those thinking you had to do because there were curves you needed to be aware of. Needed to think of them carefully and figure out how they connect. So your next step in life is better. A hope driven life moves on with new philosophies. All those things are your learnings and you keep forgetting them after a certain age. Because there are too much things to learn and things to connect. You can't keep up with all of them now. So you need to write them up.
 <br />
 
-But you can't just write them up. Because they are not just one story. They are like lots of stories. All you want to connect lessons from those stories to understand life. So, I figure, why don't just build a app that connects all the stories from everyone on earth. Is that even possible?
+But you can't just write them up. Because they are not just one story. They are like lots of stories. All you want to connect lessons from those stories to understand life. I figure, why don't just build a app that connects all the stories from everyone on earth. Is that even possible?
 
 <br/>
 
-Did you already figure out, writigng and talking helps understand the ideas better. More than talking with someone, having attachment with someone to depend, to share is much more than that. I was thinking more engagements on your learnings are actually a solution to allyour problems. So I spent last decade and all my earning to research and figure out this.
+Did you already figure out, writigng and talking helps understand the ideas better. Then having attachment with someone to depend, to share is much more than just talking. We want to have a conversation. A conversation that builds up releationship. I was thinking more engagements on our learnings are actually a solution to all our problems. So I spent last decade and all my earning to research and figure out this.
 
 <br/>
 
-Slowly you will see, you are getting wiser. Those learnings are usually personal philosophy that we know. But there is something crazy about this! It's similar for all of us. Yes that's a crazy part. Cause I thought we are all different. Literally, our brain works similar way. Then another is, you can't think of a lot. Our brain is week and has limit. That limit isn't that big also. I know these informations hurt our pride as human species.
+Slowly you will see, you are getting wiser. Those learnings are usually personal philosophy that we know. But there is something crazy about this! It's similar for all of us. Yes similarity with others a crazy part. Cause I thought we are all different. Literally, our brain works similar way. Then another crazy part is, you can't think of a lot. Our brain is week and has limit. That limit isn't that big also. I know these informations hurt our pride as human species. Caue you thought we are limitless and different, lol.
 
 <br />
 
@@ -34,13 +34,13 @@ But there is also some obvious truth about learning that we don't acknowledge. L
 
 <br />
 
-Bigger problem is managing the life and managing the learning than the problem of learning itself. I researched life, economics, learning all are glued together. If you want to know how, I am publishing those papers one by one here in a different file. They are complex and entertaining also. But the point is, learning comes when you need or fail. Intentional learning is biologically associated with anxiety. Pscychology doesn't handle anxiety well. They consider it's a disease and most of the psychological disorders are anxiety disorders in deep.
+Also, bigger problem is managing the life and managing the learning than the problem of learning itself. I researched as life, economics, learning all are glued together. If you want to know how, I am publishing those papers one by one here in a different file. They are complex and entertaining also. But the point is, learning comes when you need or fail. Intentional learning is biologically associated with anxiety. Pscychology doesn't handle anxiety well. They consider it's a disease and most of the psychological disorders are anxiety disorders in deep.
 
 <br />
- I want to make learning, working, managing, payments all integrated in this platform. So I tried to understand philosophy, economics as much as I could for this learning terms and learning system.
+ I want to make learning, working, managing, payments all integrated in this platform. So all aspects that give us vivid suffering can be handled smoothly. I tried to understand philosophy, economics as much as I could for this learning terms and learning system. But they are not conventional economics or philosophy. This is new.
 
 <br />
-Another point to remember, I want people to learn those terms like the universe learns. As smooth as the universe. For initial phase, you need to read the Learning Terms md file.
+Another point to remember, I want people to learn those terms like the universe learns. As smooth as the universe. For initial phase, you need to read the Learning Terms' .md files in github Learne-whitepaper repository.
 
 </p>
 
