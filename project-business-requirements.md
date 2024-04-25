@@ -15,7 +15,7 @@
     <li>Teams</li>
     <li>Goals</li>
     <li>Layers</li>
-    <li>Change</li>
+    <li>Change - change tracker, how is a term evloving from its initial meaning</li>
     <li>communicating meter-  learning isn’t important, communicating about learning is important.</li>
     <li>Fun - shared art form</li>
     <li>Artforms</li>

@@ -1,6 +1,3 @@
-This Learning System written by <br />
-Abu Sayeed - founder of Learnea and everylearning, learning science researcher, economist, propagandist, software engineer, filmmaker
-
 <h6>Intro</h6>
 <p>
 End of the day, you sit on a corner and think about your days. Sometimes you think about life and everything. You think what you did was right and what you did wrong. How you are evolving in the world, relationships and personality etc. All those thinking you had to do because there were curves you needed to be aware of. Needed to think of them carefully and figure out how they connect. So your next step in life is better. A hope driven life moves on with new philosophies. All those things are your learnings and you keep forgetting them after a certain age. Because there are too much things to learn and things to connect. You can't keep up with all of them now. So you need to write them up.
@@ -148,7 +145,19 @@ Learning system must approach like a great learning way of assumption, false ana
     <li><b>Learning management:- </b>managing learning is much more important than learning. If management is messed up, you can't learn</LI>
     <li><b>Learning anxiety- </b> anxiety that comes up when you try to learn. This system makes you share and solve all the anxiety you got 
     </li>
+    <li><b>Learning Node:- </b> Learning nodes are each learning philosophy but they connect each other like a map of network. Each node can be explained in different version based on different layers, perspective, topics etc </li>
+    <li><b>Learning perspectives:- </b> Perspectives are how we perceive something so that our intention can shape the learning</li>
+    <li><b>Learning Path:- </b> Leanring paths are like the syllabus except they are terms pointing from one node to another node in the map.</li>
+    <li><b>Learning terms;- </b>Each nodes are terms that has title, details, 
+    parents(macro), children(micro) terms, sub terms, new philosophy terms, story behind, which curve it explains, which reality lackings it fills.
+    </li>
+    <li><b>Learning goal, project, activity, review</b> A lerner will have a goal, goal will have project, project will have activity, activity will have review. Project will have project management board, message baord, funding, reward, payments, debate etc</li>
+    </li>
+    <li>There more things in the project business requirements that describes how things will really work out.</li>
 
 </ul>
 
-This learning system is getting updated regularly
+There is 60 pages of white paper that is way more complex and has nitty gritty reasoning, terms of life, learning, economics from a new perspective. It describes the reality of human context in hundreds of terms. Like I said, the purpose is to find the building blocks of philosophy. It will be published in the right time.
+
+This Learning System written by <br />
+Abu Sayeed - founder of Learnea, learning science researcher, economist, propagandist, software engineer, filmmaker
