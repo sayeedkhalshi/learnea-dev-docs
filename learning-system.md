@@ -131,22 +131,22 @@ Learning system must approach like a great learning way of assumption, false ana
 
 <h3>Base of learning system</h3>
 <ul>
-   <li><b>Layers and Level</b>Layers are like dymensions of the world. But in human context, layers are layers of logic or anything. When you understand a layer, you can explain everything under that layer from that perspective. You feel like leveled up
+   <li><b>Layers and Level:- </b>Layers are like dymensions of the world. But in human context, layers are layers of logic or anything. When you understand a layer, you can explain everything under that layer from that perspective. You feel like leveled up
     </li>
     <li>
     <b>Process and Threads:- </b>Learning happens in a process and each process is a thread. 
     </li>
     <li>
-    Flow: Two meaning of flow. One is we do everything in a flow. Another is if something isn't a flow, by our actions at some point it becomes a flow. The law of flow is, people can't see what flow they are in until they try to look at it
+    <b>Flow:- </b> Two meaning of flow. One is we do everything in a flow. Another is if something isn't a flow, by our actions at some point it becomes a flow. The law of flow is, people can't see what flow they are in until they try to look at it
     </li>
-    <li>Intentions - intentions are our desire to shape a learning towards something. Intentions turns into flow.</li>
-    <li>Philosophy - flows turns into philosophy</li>
-    <li>The learning cycle- Philosophies creates more intentions to more flow to more philosophies. At some point we level up and we can explain some layers of context in our mind. This is a learning cycle</li>
-    <li>Learning break - we learn better when we take a break. This system will require your proof of extra and mindful acitivities to reward you points</li>
-    <li>Acknowledgement theory - your brain starts processing when you acknowledge something.</li>
-    <li>Acknowledgement theory - Your brain doesn't process when you don't acknowledge something</li>
-    <li>Learning management - managing learning is much more important than learning. If management is messed up, you can't learn<>
-    <li>Learning anxiety - anxiety that comes up when you try to learn. This system makes you share and solve all the anxiety you got </li>
+    <li><b>Intentions:- </b> intentions are our desire to shape a learning towards something. Intentions turns into flow.</li>
+    <li><b>Philosophy:- </b> flows turns into philosophy</li>
+    <li><b>The learning cycle:- </b> Philosophies creates more intentions to more flow to more philosophies. At some point we level up and we can explain some layers of context in our mind. This is a learning cycle</li>
+    <li><b>Learning break:- </b> we learn better when we take a break. This system will require your proof of extra and mindful acitivities to reward you points</li>
+    <li><b>Acknowledgement theory:- </b> your brain starts processing when you acknowledge something.</li>
+    <li><b>Acknowledgement theory:- </b> Your brain doesn't process when you don't acknowledge something</li>
+    <li><b>Learning management:- </b>managing learning is much more important than learning. If management is messed up, you can't learn<>
+    <li><b>Learning anxiety- </b> anxiety that comes up when you try to learn. This system makes you share and solve all the anxiety you got </li>
 
 </ul>
 
