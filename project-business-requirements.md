@@ -3,7 +3,7 @@
  <ul>
     <li></li>
     <li>Users - wallet</li>
-    <li>Threads - from the single state of action mind hypothesis - only one thread is allowed for learning threads. ('Threads' instead of PTSD and force learning attahced atatched 'goal')</li>
+    <li>Threads - from the 'single state of action mind' hypothesis - only one thread is allowed for learning threads. ('Threads' instead of PTSD and force learning attatched word 'goal')</li>
     <li>The thread will run a main flow</li>
     <li>Flow has intention or (goal)</li>
     <li>Intentions are attached to activity. So far this will make people run in a flow. Now we can introduce projects under that activity. So that activity will become a goal. Goal will have project and project will have activity. Breaking flow means a lot away from the goal</li>
@@ -44,6 +44,11 @@
             <li>Paths</li>
             <li>Debate</li>
             <li>Reality pots. Genious pot - writing, talking</li>
+            <li>Story behind it</li>
+            <li>Can be marked as any trap(hormonal, anxiety, unacknowledgement, acknowledgement, flow)</li>
+            <li>Primary or secondary philosophy</li>
+            <li>pain and pleasure point (law of happiness or law of anxiety)</li>
+            <li>Sub terms - terms that makes up a term</li>
         </ul>
     </li>
     <li>Learning Philosophy of term (acts like a term)- what you learned from a term. Philosophies are Gem terms. Some philosphies are called genuine gem. When a genuine gem is made, people will run to explain how to explain it in terms of control structure to simulate reality. Many new things can be created. Their actions will be rewarded more. </li>
