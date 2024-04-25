@@ -144,9 +144,10 @@ Learning system must approach like a great learning way of assumption, false ana
     <li><b>The learning cycle:- </b> Philosophies creates more intentions to more flow to more philosophies. At some point we level up and we can explain some layers of context in our mind. This is a learning cycle</li>
     <li><b>Learning break:- </b> we learn better when we take a break. This system will require your proof of extra and mindful acitivities to reward you points</li>
     <li><b>Acknowledgement theory:- </b> your brain starts processing when you acknowledge something.</li>
-    <li><b>Acknowledgement theory:- </b> Your brain doesn't process when you don't acknowledge something</li>
-    <li><b>Learning management:- </b>managing learning is much more important than learning. If management is messed up, you can't learn<>
-    <li><b>Learning anxiety- </b> anxiety that comes up when you try to learn. This system makes you share and solve all the anxiety you got </li>
+    <li><b>Unacknowledgement theory:- </b> Your brain doesn't process when you don't acknowledge something</li>
+    <li><b>Learning management:- </b>managing learning is much more important than learning. If management is messed up, you can't learn</LI>
+    <li><b>Learning anxiety- </b> anxiety that comes up when you try to learn. This system makes you share and solve all the anxiety you got 
+    </li>
 
 </ul>
 
