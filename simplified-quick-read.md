@@ -157,7 +157,7 @@ Learning system must approach like a great learning way of assumption, false ana
 
 </ul>
 
-There is 60 pages of white paper that is way more complex and has nitty gritty reasoning, terms of life, learning, economics from a new perspective. It describes the reality of human context in hundreds of terms. Like I said, the purpose is to find the building blocks of philosophy. It will be published in the right time.
-
 This Learning System written by <br />
 Abu Sayeed - founder of Learnea, learning science researcher, economist, propagandist, software engineer, filmmaker
+<br />
+https://twitter.com/sayeedkhalshi
