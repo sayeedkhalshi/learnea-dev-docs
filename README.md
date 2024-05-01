@@ -13,9 +13,9 @@ Learnea understands how our brain learns. Unlike traditional system, it gives no
 Learnea uses acknowledgement and unacknowledgement theory proposed by the founder, Abu Sayeed. This two theory are the most important part in human learning mechanism.
 
 For white paper, read -https://docs.google.com/document/d/1NQoDVxIliHvuVokspC88wOGR_ZO-AQ0OgIl0sPWFNLU/edit?usp=sharing <br/>
-Simplified reading to understand the project - simplified-quick-read.md<br />
-For Project Goal and Philosophy - goal-philosophy.md<br />
-project product development ideas - project-business-requirements.md<br />
+Simplified reading to understand the project - https://github.com/sayeedkhalshi/learnea-dev-docs/blob/main/simplified-quick-read.md<br />
+For Project Goal and Philosophy - https://github.com/sayeedkhalshi/learnea-dev-docs/blob/main/initial-philosophy-of-app.md<br />
+project product development ideas - https://github.com/sayeedkhalshi/learnea-dev-docs/blob/main/app-business-requirements.md<br />
 For UI goal - UI.md<br />
 
 Founders twitter -
